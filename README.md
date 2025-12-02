@@ -50,5 +50,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy or need to request data deletion, please contact us:
 
-* **Email:** [INSERT YOUR SUPPORT EMAIL HERE]
-* **Website:** [INSERT YOUR MAIN APP URL IF YOU HAVE ONE]
+* **Email:** support@fplbro.com
+* **Website:** www.fplbro.com
